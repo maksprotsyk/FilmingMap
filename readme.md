@@ -6,11 +6,11 @@
 
 >>python main.py
  
-> ENTER YOUR COORDINATES: 49.8397 24.0297
+>ENTER YOUR COORDINATES: 49.8397 24.0297
 
-> ENTER THE YEAR: 2010
+ENTER THE YEAR: 2010
  
-> Enter country to find its neighbours: Ukraine
+Enter country to find its neighbours: Ukraine
 
->  Map created
+Map created
 >![Alt text](result.png?raw=true)
