@@ -1,10 +1,8 @@
-# FILMING MAP
+# Filming map
 
-- Модуль відображає на карті найближчі до заданої локації місця
-зйомки фільмів заданого року та відмічає сусідів для заданої країни.
-- Карта дає нам змогу дізнатись про місця зйомок фільмів та знайти, крім того, побачити власне розташування на карті
+The program displays places closest to the specified location, where films made during specific year were shot.
  
-# Приклад роботи
+# Usage example
 ```
 python main.py
 
